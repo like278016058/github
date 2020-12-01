@@ -9,6 +9,12 @@ class GithubApplicationTests {
 	@Test
 	void contextLoads() {
            System.out.print("你个DERDER");
+		System.out.println("你才是个derder");
+		System.out.println("你才是个derder");
+		System.out.println("你才是个derder");
+		System.out.println("你才是个derder");
+		System.out.println("你才是个derder");
+
 	}
 
 }
