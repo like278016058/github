@@ -8,6 +8,7 @@ class GithubApplicationTests {
 
 	@Test
 	void contextLoads() {
+           System.out.print("你个DERDER");
 	}
 
 }
